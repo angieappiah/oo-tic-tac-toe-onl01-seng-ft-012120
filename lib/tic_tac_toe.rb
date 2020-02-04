@@ -1,6 +1,6 @@
-class Board 
-  def initialize game
-    @tic_tac_toe = tic_tac_toe
+class Tic_tac_toe
+  def initialize board
+    @board = board
   end
   
   def 
