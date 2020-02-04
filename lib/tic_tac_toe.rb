@@ -8,6 +8,6 @@ class Tic_tac_toe
   end
   
   def Win_combination
-    Win_combination = [ "0""9"]
+    Win_combination = 
     
     def display_board
