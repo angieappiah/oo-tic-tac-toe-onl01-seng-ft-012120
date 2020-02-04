@@ -5,7 +5,6 @@ class Tic_tac_toe
   
   def 
     @board = ( 9 " ")
-    @Array.new = []
   end
   
   def Win_combination
