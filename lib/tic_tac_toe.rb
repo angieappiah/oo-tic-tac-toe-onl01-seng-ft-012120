@@ -4,7 +4,7 @@ class Tic_tac_toe
   end
   
   def 
-    @board = ( 9 " ")
+    @board = Array.new ( 9 " ")
   end
   
   def WIN_COMBINATIONS
