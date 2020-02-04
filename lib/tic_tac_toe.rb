@@ -1,6 +1,6 @@
-class song 
-  def initialize board
-    @board = board
+class Board 
+  def initialize game
+    @tic_tac_toe = tic_tac_toe
   end
   
   def 
