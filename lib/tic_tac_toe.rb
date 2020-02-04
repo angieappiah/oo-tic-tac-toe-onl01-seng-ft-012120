@@ -4,7 +4,7 @@ class Tic_tac_toe
   end
   
   def 
-    board = [ 9 " "]
+    @board = [ 9 " "]
     @board.new = []
   end
   
